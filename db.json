@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "Mahmoud",
+      "lname": "Hamdy",
+      "phone_number": "01012776232",
+      "email": "mhmorsy@gmail.com",
+      "country": "ARE",
+      "password": "127",
+      "role": "SuperAdmin",
+      "access":"Dwadkewhfkjewfkj"
+    },
+    {
+      "id": "aa8d",
+      "phone_number": "201012776233",
+      "email": "mahmoudh.morsy@gmail.com",
+      "country": "Egypt",
+      "password": "Mm123",
+      "password2": "Mm123",
+      "role": "customer"
+    }
+  ]
+}

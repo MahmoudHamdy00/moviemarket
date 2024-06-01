@@ -35,7 +35,7 @@ export default function Register() {
     }else{
       try {
          response = await Axios.post(
-          'https://anayty.pythonanywhere.com/api/v1/register/',
+          'http://localhost:3001/users',
           user
         );
         if (response.status === 201) {
